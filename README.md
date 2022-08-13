@@ -11,7 +11,7 @@ Group project done during Full Stack Software Engineering studies at **ALX AFRIC
 * [0x05 Usage](#0x05-Usage)
 * [0x06 Authors](#0x06-Authors)
 
-******
+********
 
 ## 0x01 Introduction
 
