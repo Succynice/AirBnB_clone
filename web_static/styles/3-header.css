@@ -1,0 +1,16 @@
+/* for the header style */
+header {
+  height: 70px;
+  width: 100%;
+  border-bottom: 1px solid #cccccc;
+  background: white url(../images/logo.png);
+  background-repeat: no-repeat;
+  background-position: 20px center;
+  flex-shrink: 0;
+}
+
+/* .logo{
+  width: 100%;
+   max-width: 1000px;
+   flex: 1 0 auto;
+ } */
