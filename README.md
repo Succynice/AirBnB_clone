@@ -2,6 +2,7 @@
 
 Group project done during Full Stack Software Engineering studies at **ALX AFRICA SE School**.
 
+
 ## 0x00.Table of contents
 
 * [0x01 Introduction](#0x01-Introduction)
@@ -17,9 +18,11 @@ Group project done during Full Stack Software Engineering studies at **ALX AFRIC
 
 Team project to build a clone of [AirBnB](https://www.airbnb.com/).
 
+### Overview of my project: [AirBnB_clone](https://airbnb-cloneproject.succynice.repl.co/)
+
 The console is a command interpreter to manage objects abstraction between objects and how they are stored.
 
-To see the fundamental background of the project visit the [Wiki](https://github.com/ralexrivero/AirBnB_clone/wiki).
+To see the fundamental background of the project visit the [Wiki](https://github.com/succynice/AirBnB_clone/wiki).
 
 The console willl perform the following tasks:
 
